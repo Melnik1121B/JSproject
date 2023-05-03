@@ -1,0 +1,11 @@
+box {
+    width:18px;
+    color:white;
+    height:18px;
+    background: black;
+       border: 1px solid white;
+           display: inline-block;
+}
+div#container {
+    width: 200px;
+}
